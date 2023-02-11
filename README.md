@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently doing BSCS (Specialization in AI) **[Sukkur IBA University](https://www.iba-suk.edu.pk/)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Machine Learning And Deep Learning**
 
 - 👯 I’m enthusiatic to collaborate on **OpenSource Projects**
 
