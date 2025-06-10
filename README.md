@@ -5,8 +5,9 @@
 
 
 ## 🙋‍♂️ About Me
+- 👨‍💻 I am currently working as Data Engineet at Autonomous **[My Portfolio](https://github.com/Dev-Amjad)**
 
-- 🔭 I’m currently doing BSCS (Specialization in AI) **[Sukkur IBA University](https://www.iba-suk.edu.pk/)**
+- 🔭 I have done BSCS (Specialization in AI) **[Sukkur IBA University](https://www.iba-suk.edu.pk/)**
 
 - 🌱 I’m currently learning **Machine Learning And Deep Learning**
 
