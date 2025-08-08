@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Amjad</h1>
-<h3 align="center">I'm a Passionate AI Engineer From Pakistan.</h3>
+<h3 align="center">I'm a Passionate Data Engineer From Pakistan.</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -9,7 +9,7 @@
 
 - 🔭 I have done BSCS (Specialization in AI) **[Sukkur IBA University](https://www.iba-suk.edu.pk/)**
 
-- 🌱 I’m currently learning **Machine Learning And Deep Learning**
+- 🌱 I’m currently learning **Data Modelling and Data Platforms**
 
 - 👯 I’m enthusiatic to collaborate on **OpenSource Projects**
 
