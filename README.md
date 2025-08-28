@@ -15,7 +15,7 @@
 
 - 👨‍💻 Projects that i have done are available on **[My Portfolio](https://github.com/Dev-Amjad)**
 
-- 📫 How to reach me **amjad.bsais21@iba-suk.edu.pk**
+- 📫 How to reach me **amjad.ali@autonomoustech.ca**
 
 - ⚡ Fun fact **Music Lover**
 
