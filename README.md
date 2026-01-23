@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img lines=🚀+Data+and+AI+Engineer;🔄+ETL+Pipeline+Architect;📊+Snowflake+and+BigQuery+Specialist;🤖+ML+Model+Deployment+Expert;🧠+LLM+Fine-Tuning+and+RLHF;📈+Real-Time+Analytics+Builder;💡+Building+Scalable+Data+Solutions&font=Fira%20Code&center=true&width=900&height=80&duration=3000&pause=1000&size=24&color=58A6FF" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Data+and+AI+Engineer;🔄+ETL+Pipeline+Architect;📊+Snowflake+and+BigQuery+Specialist;🤖+ML+Model+Deployment+Expert;🧠+LLM+Fine-Tuning+and+RLHF;📈+Real-Time+Analytics+Builder;💡+Building+Scalable+Data+Solutions&font=Fira%20Code&center=true&width=900&height=80&duration=3000&pause=1000&size=24&color=58A6FF" alt="Typing Animation">
 </div>
 
 <div align="center">
