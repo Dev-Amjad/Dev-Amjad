@@ -228,11 +228,7 @@ I'm a **Data & AI Engineer** who builds scalable data platforms and intelligent 
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dev-Amjad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Dev-Amjad&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dev-Amjad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dev-Amjad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 <br>
