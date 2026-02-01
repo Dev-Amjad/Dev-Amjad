@@ -225,12 +225,48 @@ I'm a **Data & AI Engineer** who builds scalable data platforms and intelligent 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 Profile Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=amjadali-ml&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
-  <img src="https://img.shields.io/github/followers/amjadali-ml?label=Followers&style=for-the-badge&color=blue"/>
+  <img src="https://komarev.com/ghpvc/?username=Dev-Amjad&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
+  <img src="https://img.shields.io/github/followers/Dev-Amjad?label=Followers&style=for-the-badge&color=blue"/>
   <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-success?style=for-the-badge"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dev-Amjad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Amjad&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Amjad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
+
+<br>
+
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dev-Amjad&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
+</div>
+
+<br>
+
+### 🐍 Contribution Snake
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dev-Amjad/Dev-Amjad/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dev-Amjad/Dev-Amjad/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Dev-Amjad/Dev-Amjad/output/github-snake.svg" />
+  </picture>
+</div>
+
+<br>
+
+### 📈 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-Amjad&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
 
 <div align="center">
