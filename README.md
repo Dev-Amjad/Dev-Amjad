@@ -184,13 +184,7 @@ I'm a **Data & AI Engineer** who builds scalable data platforms and intelligent 
 </table>
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://skillicons.dev/icons?i=python,django,js,mysql,aws,github,docker,tensorflow,pytorch&perline=9" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -219,9 +213,6 @@ I'm a **Data & AI Engineer** who builds scalable data platforms and intelligent 
   </a>
 </div>
 
-<div align="center" style="margin-top: 10px;">
-  <img src="https://img.shields.io/badge/Phone-+92_305_276_3758-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -236,19 +227,19 @@ I'm a **Data & AI Engineer** who builds scalable data platforms and intelligent 
 <br>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dev-Amjad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Amjad&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dev-Amjad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Dev-Amjad&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Amjad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dev-Amjad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 <br>
 
 ### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dev-Amjad&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
+  <img src="https://github-trophies.vercel.app/?username=Dev-Amjad&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" />
 </div>
 
 <br>
