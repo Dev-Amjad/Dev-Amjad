@@ -192,7 +192,7 @@ I'm a **Data & AI Engineer** who builds scalable data platforms and intelligent 
 
 ## 🎓 Education & Achievements
 
-### 🏛️ **Sukkur IBA University** (2021 - 2025)
+### 🏛️ **Sukkur IBA University**
 **Bachelor of Science in Computer Science**
 - 🥉 **Bronze Medalist** | GPA: **3.55/4.0**
 - **Relevant Coursework**: Artificial Intelligence, Machine Learning, OOP, Data Structures & Algorithms, Parallel & Distributed Computing, Digital Image Processing, Database Management, Linear Algebra, Statistics
