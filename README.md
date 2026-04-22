@@ -52,6 +52,14 @@ I'm a **Data & AI Engineer** who builds scalable data platforms and intelligent 
 
 ## 💼 Professional Journey
 
+### 🚀 **Data & AI Engineer @ Alpha Digital / MU Ventures** (Jan 2025 - Present) | Full-Time
+- Developed and deployed **AI/ML applications** including predictive models (XGBoost, statistical methods) for customer churn and demand forecasting in production environments
+- Built automated **data processing pipelines** using Python and Airflow handling **10M+ daily records**, optimised for performance and scalability
+- Led **client-facing engagements** — gathering requirements, presenting technical solutions, and delivering AI products to international stakeholders
+- Collaborated with cross-functional product and business teams to translate business problems into **AI-driven solutions**
+
+---
+
 ### 🌟 **Data & AI Engineer @ Autonomous** (Jan 2025 - Present) | Onsite & Full-Time
 - Optimized **SQL queries** to accelerate data retrieval for real-time analytics
 - Designed **scalable data models**, enhancing data integrity and system performance
@@ -67,14 +75,14 @@ I'm a **Data & AI Engineer** who builds scalable data platforms and intelligent 
 
 ---
 
-### 🔧 **ETL Engineer @ Alt-Sports Data Inc** (April 2024 - Present) | Remote & Part-Time
+### 🔧 **ETL Engineer @ Alt-Sports Data Inc** (April 2024 - Dec 2025) | Remote & Part-Time
 - Converted **132 Lambda functions into 10 robust ETL pipelines**, significantly enhancing performance and scalability
 - Developed a **Django-based system** for sports data ingestion and modeling, paired with robust APIs
 - Provided high-speed, transparent, and reliable **data platform support** for multiple sports
 
 ---
 
-### 🤖 **AI Trainer @ Label Box Inc** (Feb 2024 - Oct 2024)
+### 🤖 **AI Trainer @ Label Box Inc** (Sep 2024 - Dec 2024)
 - Reviewed and refined **LLM responses** to improve accuracy and performance (RLHF)
 - Solved complex **DSA and ML problems** under specific deadlines
 - Ensured high-quality task deliverables through rigorous review and adherence to standards
