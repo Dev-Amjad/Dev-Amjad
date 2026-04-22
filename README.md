@@ -52,7 +52,7 @@ I'm a **Data & AI Engineer** who builds scalable data platforms and intelligent 
 
 ## 💼 Professional Journey
 
-### 🚀 **Data & AI Engineer @ Alpha Digital / MU Ventures** (Jan 2025 - Present) | Full-Time
+### 🚀 **Data & AI Engineer @ Alpha Digital / MU Ventures** (Jan 2026 - Present) | Full-Time
 - Developed and deployed **AI/ML applications** including predictive models (XGBoost, statistical methods) for customer churn and demand forecasting in production environments
 - Built automated **data processing pipelines** using Python and Airflow handling **10M+ daily records**, optimised for performance and scalability
 - Led **client-facing engagements** — gathering requirements, presenting technical solutions, and delivering AI products to international stakeholders
@@ -60,14 +60,14 @@ I'm a **Data & AI Engineer** who builds scalable data platforms and intelligent 
 
 ---
 
-### 🌟 **Data & AI Engineer @ Autonomous** (Jan 2025 - Present) | Onsite & Full-Time
+### 🌟 **Data & AI Engineer @ Autonomous** (Jan 2024 - jan 2026) | Onsite & Full-Time
 - Optimized **SQL queries** to accelerate data retrieval for real-time analytics
 - Designed **scalable data models**, enhancing data integrity and system performance
 - Automated **robust ETL pipelines** to process unstructured data, streamlining entire data flow
 
 ---
 
-### 📊 **Data Analytics Engineer @ Part and Sum** (June 2024 - Present) | Remote & Part-Time
+### 📊 **Data Analytics Engineer @ Alt Sports Data Inc ** (Feb 2024 - Present) | Remote & Part-Time
 - Designed and maintained efficient **data structures in Snowflake** for seamless data processing
 - Performed **rigorous QA on data pipelines** to guarantee accuracy, reliability, and optimal performance
 - Created **Looker Studio visualizations** and implemented SQL/Python solutions to enhance data processes
@@ -75,7 +75,7 @@ I'm a **Data & AI Engineer** who builds scalable data platforms and intelligent 
 
 ---
 
-### 🔧 **ETL Engineer @ Alt-Sports Data Inc** (April 2024 - Dec 2025) | Remote & Part-Time
+### 🔧 **ETL Engineer @ Part and Sum ** (April 2021 - Dec 2023) | Remote & Part-Time
 - Converted **132 Lambda functions into 10 robust ETL pipelines**, significantly enhancing performance and scalability
 - Developed a **Django-based system** for sports data ingestion and modeling, paired with robust APIs
 - Provided high-speed, transparent, and reliable **data platform support** for multiple sports
