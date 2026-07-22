@@ -17,8 +17,8 @@
     🌟 <strong>Transforming Raw Data into Actionable Intelligence | Building Data Platforms that Scale</strong> 🌟
   </h2>
   <p style="font-size: 18px; margin: 15px 0;">
-    <em>🎯 Currently: Building scalable ETL pipelines and ML solutions as a <strong>Data & AI Engineer</strong></em><br>
-    <em>💼 Serving 15+ international clients across US, UK, and Europe</em><br>
+    <em>🎯 Currently: Building scalable ETL pipelines and ML solutions as a <strong>Senior Data & AI Engineer</strong></em><br>
+    <em>💼 Serving 20+ international clients across US, UK, and Europe</em><br>
     <em>🚀 Specialized in Snowflake architectures, real-time analytics, and production ML deployment</em>
   </p>
   
@@ -52,7 +52,7 @@ I'm a **Data & AI Engineer** who builds scalable data platforms and intelligent 
 
 ## 💼 Professional Journey
 
-### 🚀 **Data & AI Engineer @ Alpha Digital / MU Ventures** (Jan 2026 - Present) | Full-Time
+### 🚀 **Senior Data & AI Engineer @ Alpha Mu Digital** (client: Balance Homes, US PropTech/HEI) (Mar 2026 - Present) | On-site & Full-Time
 - Developed and deployed **AI/ML applications** including predictive models (XGBoost, statistical methods) for customer churn and demand forecasting in production environments
 - Built automated **data processing pipelines** using Python and Airflow handling **10M+ daily records**, optimised for performance and scalability
 - Led **client-facing engagements** — gathering requirements, presenting technical solutions, and delivering AI products to international stakeholders
@@ -60,29 +60,29 @@ I'm a **Data & AI Engineer** who builds scalable data platforms and intelligent 
 
 ---
 
-### 🌟 **Data & AI Engineer @ Autonomous** (Jan 2024 - jan 2026) | Onsite & Full-Time
+### 📊 **Data Engineer @ ALT Sports Data** (California, US) (May 2025 - Jul 2026) | Remote & Contract
+- Designed and maintained efficient **data structures in Snowflake** for seamless data processing
+- Performed **rigorous QA on data pipelines** to guarantee accuracy, reliability, and optimal performance
+- Created **Looker Studio visualizations** and implemented SQL/Python solutions to enhance data processes
+- Serving **20+ international clients** across US, UK, and Europe
+
+---
+
+### 🌟 **Data & AI Engineer @ Autonomous** (Karachi) (Dec 2024 - Apr 2026) | Onsite & Full-Time
 - Optimized **SQL queries** to accelerate data retrieval for real-time analytics
 - Designed **scalable data models**, enhancing data integrity and system performance
 - Automated **robust ETL pipelines** to process unstructured data, streamlining entire data flow
 
 ---
 
-### 📊 **Data Analytics Engineer @ Alt Sports Data Inc ** (Feb 2024 - Present) | Remote & Part-Time
-- Designed and maintained efficient **data structures in Snowflake** for seamless data processing
-- Performed **rigorous QA on data pipelines** to guarantee accuracy, reliability, and optimal performance
-- Created **Looker Studio visualizations** and implemented SQL/Python solutions to enhance data processes
-- Serving **15+ international clients** across US, UK, and Europe
-
----
-
-### 🔧 **ETL Engineer @ Part and Sum ** (April 2021 - Dec 2023) | Remote & Part-Time
+### 🔧 **Data Analytics Engineer @ Part and Sum** (Brooklyn, NY) (Jan 2023 - Nov 2024) | Remote & Contract
 - Converted **132 Lambda functions into 10 robust ETL pipelines**, significantly enhancing performance and scalability
 - Developed a **Django-based system** for sports data ingestion and modeling, paired with robust APIs
 - Provided high-speed, transparent, and reliable **data platform support** for multiple sports
 
 ---
 
-### 🤖 **AI Trainer @ Label Box Inc** (Sep 2024 - Dec 2024)
+### 🤖 **AI Data Trainer (RLHF) @ Labelbox** (California, US) (Apr 2022 - Dec 2022) | Remote & Contract
 - Reviewed and refined **LLM responses** to improve accuracy and performance (RLHF)
 - Solved complex **DSA and ML problems** under specific deadlines
 - Ensured high-quality task deliverables through rigorous review and adherence to standards
@@ -216,7 +216,7 @@ I'm a **Data & AI Engineer** who builds scalable data platforms and intelligent 
   <a href="mailto:amjadaligolocsais@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/amjadali-ml">
+  <a href="https://github.com/Dev-Amjad">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
@@ -272,7 +272,7 @@ I'm a **Data & AI Engineer** who builds scalable data platforms and intelligent 
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
   <br>
   <h3>💡 "Turning raw data into scalable intelligence, one pipeline at a time"</h3>
-  <p><i>⭐️ From <a href="https://github.com/amjadali-ml">amjadali-ml</a> - Passionate about Data Engineering, ML, and solving real-world problems</i></p>
+  <p><i>⭐️ From <a href="https://github.com/Dev-Amjad">Dev-Amjad</a> - Passionate about Data Engineering, ML, and solving real-world problems</i></p>
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 </div>
 
