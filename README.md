@@ -52,7 +52,7 @@ I'm a **Data & AI Engineer** who builds scalable data platforms and intelligent 
 
 ## 💼 Professional Journey
 
-### 🚀 **Senior Data & AI Engineer @ Alpha Mu Digital** (client: Balance Homes, US PropTech/HEI) (Mar 2026 - Present) | On-site & Full-Time
+### 🚀 **Senior Data & AI Engineer @ Alpha Mu Digital** (client: Balance Homes, US PropTech/HEI) | On-site & Full-Time
 - Developed and deployed **AI/ML applications** including predictive models (XGBoost, statistical methods) for customer churn and demand forecasting in production environments
 - Built automated **data processing pipelines** using Python and Airflow handling **10M+ daily records**, optimised for performance and scalability
 - Led **client-facing engagements** — gathering requirements, presenting technical solutions, and delivering AI products to international stakeholders
@@ -60,7 +60,7 @@ I'm a **Data & AI Engineer** who builds scalable data platforms and intelligent 
 
 ---
 
-### 📊 **Data Engineer @ ALT Sports Data** (California, US) (May 2025 - Jul 2026) | Remote & Contract
+### 📊 **Data Engineer @ ALT Sports Data** (California, US) | Remote & Contract
 - Designed and maintained efficient **data structures in Snowflake** for seamless data processing
 - Performed **rigorous QA on data pipelines** to guarantee accuracy, reliability, and optimal performance
 - Created **Looker Studio visualizations** and implemented SQL/Python solutions to enhance data processes
@@ -68,21 +68,21 @@ I'm a **Data & AI Engineer** who builds scalable data platforms and intelligent 
 
 ---
 
-### 🌟 **Data & AI Engineer @ Autonomous** (Karachi) (Dec 2024 - Apr 2026) | Onsite & Full-Time
+### 🌟 **Data & AI Engineer @ Autonomous** (Karachi) | Onsite & Full-Time
 - Optimized **SQL queries** to accelerate data retrieval for real-time analytics
 - Designed **scalable data models**, enhancing data integrity and system performance
 - Automated **robust ETL pipelines** to process unstructured data, streamlining entire data flow
 
 ---
 
-### 🔧 **Data Analytics Engineer @ Part and Sum** (Brooklyn, NY) (Jan 2023 - Nov 2024) | Remote & Contract
+### 🔧 **Data Analytics Engineer @ Part and Sum** (Brooklyn, NY) | Remote & Contract
 - Converted **132 Lambda functions into 10 robust ETL pipelines**, significantly enhancing performance and scalability
 - Developed a **Django-based system** for sports data ingestion and modeling, paired with robust APIs
 - Provided high-speed, transparent, and reliable **data platform support** for multiple sports
 
 ---
 
-### 🤖 **AI Data Trainer (RLHF) @ Labelbox** (California, US) (Apr 2022 - Dec 2022) | Remote & Contract
+### 🤖 **AI Data Trainer (RLHF) @ Labelbox** (California, US) | Remote & Contract
 - Reviewed and refined **LLM responses** to improve accuracy and performance (RLHF)
 - Solved complex **DSA and ML problems** under specific deadlines
 - Ensured high-quality task deliverables through rigorous review and adherence to standards
